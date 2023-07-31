@@ -9,3 +9,7 @@
 ## Creation de fichier SQL et Python 
 
 touch les files
+
+## Creation du modèle
+
+j'ai créé une branche
