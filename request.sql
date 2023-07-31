@@ -1,2 +1,2 @@
-SELECT *
+SELECT age
 FROM students
